@@ -41,3 +41,6 @@
     - 2 values: top-bottom, left-right
     - 3 values: top, left-right, bottom
     - 4 values: top, right, bottom, left
+- Total Width and Box Sizing
+    - content-box - only the width of the content, separate from padding and margin
+    - border-box - width of the content with the padding and margin

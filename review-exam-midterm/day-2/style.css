@@ -21,6 +21,16 @@ p {
 #second-paragraph {
     font-style: italic;
     text-align: justify;
+    background-color: palegoldenrod;
+    padding: 10px 15px;
+    border: 2px solid black;
+    margin: 10px 20px 30px 40px;
+}
+#third-paragraph {
+    box-sizing: border-box;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid black;
 }
 a {
     text-decoration: none;
